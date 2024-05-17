@@ -11,8 +11,8 @@ In this case study I will discuss how the Air force has designeated PANDA (Predi
 # 3. Business Activities 
 * The U.S. Air Force and (GAO) Government Accountability Office, found mulitple aircraft mission-capable deadlines and goals were not being met. 
 * Finding a solution or system to identify risk of failure before those issues occurred, was cruicial to these missions.
-* The RSO (Rapid Sustainment Office) is responsible for setting a program office to apply Artifical Intelligence and machin learning to advance fleet maitenance, increase aircraft availibility and reduce costs and downtime. 
-* The solution identified is C3 AI Platfor and C3 AI Readiness applications through the Air Force Cloud One, powered by AWS. <https://c3.ai/c3-ai-platform/>
+* The RSO (Rapid Sustainment Office) is responsible for setting a program office to apply Artifical Intelligence and machine learning to advance fleet maitenance, increase aircraft availibility and reduce costs and downtime. 
+* The solution identified is C3 AI Platform and C3 AI Readiness applications through the Air Force Cloud One, powered by AWS. <https://c3.ai/c3-ai-platform/>
 
 * This system will help identify aircraft systems and components at risk of failure, and provide the needed evidence in order to be proactive with maintenance, and conduct availability for the correct parts and correct placement for the maintenance. <https://c3.ai/products/c3-ai-readiness/>
 * Currently the U.S. Air Force utilizes a mix of advanced technologies to track maintenance, parts and assets, a few examples include RFID tags, data analytics from RFID data, blockchain pilots/supply chain, and even AR in Maintenacne Training. 
@@ -33,7 +33,7 @@ In this case study I will discuss how the Air force has designeated PANDA (Predi
 * If given the opportunity to advise the U.S. Air Force, I would strongly advocate for investing in technology and artifical intelligence. The ROI in these areas is significant and would yield substantial benefits and outcomes. 
 * Allocating the requisite budgets to such software vendors for partnership will not only bolster the fleet but also enable them to achieve their goal of operating most effectively within an efficient timeline.
 * C3 AI Platform was designed to integragte with muliple technologies to help develop and deploy the solution. These systems would include, AI, Data Integration, Cloud Computing, DevOps, Cybersecurity, Viscual and User Interface Technologies and Open APIs. 
-* The integration of these essential technologies is pivotal to achieving the organization's primary objective. Within these integrated systems and dat platforms, comprehensive technology stacks empower the organization to effectively leverage AI at scale, driving successful digital transformation initiatives. 
+* The integration of these essential technologies is pivotal to achieving the organization's primary objective. Within these integrated systems and data platforms, comprehensive technology stacks empower the organization to effectively leverage AI at scale, driving successful digital transformation initiatives. 
 
 # Source Title 1
 <{https://c3.ai/improving-us-air-force-mission-capability-with-ai/#:~:text=PANDA%20generates%20detailed%20CBM%2B%20forecasts,most%20attention%20during%20maintenance%20events.}>
